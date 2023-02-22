@@ -1,0 +1,22 @@
+{
+  "title": "Clients",
+  "ourClients/investitors": "Clients / The others",
+  "others": "Others",
+  "OtherClientsList1": [
+    "BiH Ministry of Security",
+    "BiH Ministry of Defense",
+    "The Hellenic Republic and the Council of Ministers of Bosnia and Herzegovina",
+    "Office of the National Coordinator (HiPERB)",
+    "Federal Ministry of Finance",
+    "Hayat Group",
+    "The City of Zenica"
+  ],
+  "OtherClientsList2": [
+    "Sarajevo Canton Fund for housing construction",
+    "Federal Prison in Zenica",
+    "Delegation of the European Union",
+    "Municipality of Trnovo, Sarajevo",
+    "Municipality of Novi Grad, Sarajevo",
+    "FC Željezničar, Sarajevo"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "locales": ["bs", "en"],
+  "defaultLocale": "bs",
+  "localeDetection": true,
+  "pages": {
+    "*": ["common", "error"],
+    "/careers": ["career"],
+    "/contact": ["contact"],
+    "/about": ["about"],
+    "/team": ["team"],
+    "/clients": ["clients"],
+    "/projects": ["projects"],
+    "/blog": ["blog"],
+    "/blog/[slug]": ["blog"],
+    "/projects/[id]": ["projects"],
+    "/services/designing": ["projects", "designing"],
+    "/services/supervision": ["projects", "supervision"],
+    "/services/project-management": ["project-management", "projects"],
+    "/services/facade-engineering": ["projects", "facade-engineering"],
+    "/404": ["error"],
+    "/500": ["error"]
+  }
+}

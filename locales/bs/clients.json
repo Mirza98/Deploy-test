@@ -1,0 +1,22 @@
+{
+  "title": "Klijenti",
+  "ourClients/investitors": "Naši klijenti / Ostali",
+  "others": "Ostali",
+  "OtherClientsList1": [
+    "Ministarstvo sigurnosti BiH",
+    "Ministarstvo odbrane BiH",
+    "Republika Grčka i Vijeće Ministara Bosne i Hercegovine",
+    "Ured Nacionalnog Kordinatora (HiPERB)",
+    "Federalno Ministarsvo Finansija",
+    "Hayat Grupa",
+    "Grad Zenica"
+  ],
+  "OtherClientsList2": [
+    "Fond Kantona Sarajevo za izgradnju stanova",
+    "Federalni zatvor u Zenici",
+    "Delegacija Evropske Unije",
+    "Općina Trnovo, Sarajevo",
+    "Općina Novi Grad, Sarajevo",
+    "FK Željezničar, Sarajevo"
+  ]
+}

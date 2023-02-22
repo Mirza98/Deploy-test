@@ -1,0 +1,5 @@
+{
+  "404": "Page not found !",
+  "500": "Server-side error occurred !",
+  "400": "Bad request !"
+}

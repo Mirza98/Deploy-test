@@ -1,0 +1,33 @@
+{
+  "title": "Projektovanje",
+  "content": "Aksa doo Zenica osnovana je 1989.godine sa sjedištem u Zenici, BIH.\nVlasnik i osnivač je ugledni bosanskohercegovački arhitekta Zvjezdan Turkić.\nZa svoj rad arhitekt Turkić je nagrađivan više puta – između ostalog u dva navrata je dobio nagradu Saveza arhitekata BiH za najuspješniju arhitektonsku realizaciju u Bosni i Hercegovini te je dobitnik je nagrade Grada Zenice za doprinos u oblasti arhitekture. Bio je prvi predsjednik Skupštine Asocijacije arhitekata BiH, predsjednik i član Komisije za polaganje stručnih ispita pri Ministarstvu prostornog uređenja BiH, kao i član Stručnog odbora za dodjelu ovlaštenja za arhitektonsko projektovanje pri istom Ministarstvu.\nU svojih 27 godina postojanja Aksa je uspjela realizirati veliki broj projekata od značaja za državu,federaciju,kanton,grad kao i za privatne investitore,čime smo postali jedna od vodećih projektantskih firmi u BIH.\nU našem sastavu djeluju arhitektonski i konstruktivni biro koji zajedno sa vanjskim saradnicima omogućavaju uspješnu realizaciju i najsloženijih projektnih zadataka.",
+  "p1": "Svaki konkretniji građevinski zahvat bilo da zahtijeva građevinsku dozvolu ili ne, treba imati konceptualizaciju odnosno projekat.",
+  "p2": "U projektantskoj praksi razlikujemo idejni projekat kojim se definiše veličina budućeg objekta, položaj objekta i orjentacija na građevinskoj čestici,glavni projekat u kojem se razrađuje idejni projekat i po njemu se u konačnici izvodi objekat sa svim instalacijama. Glavni projekat uključuje sve struke i njime se ispunjavaju svi potrebni standardi i zahtjevi za gradnju.",
+  "p3": "Složene i zahtjevne građevine ponekad zahtijevaju izvedbeni projekat, koji treba pomoći izvođačima radova i spriječiti improvizacije i eventualne \"kreativne\" zahvate izvodjača radova.",
+  "designing": {
+    "serviceDescriptionLists": [
+      {
+        "title": "ARHITEKTURA",
+        "body": [
+          "Idejna rješenja",
+          "Idejni projekti",
+          "Glavni projekti",
+          "Izvedbeni projekti",
+          "Projekti izvedenog stanja",
+          "Projekti sanacija, rekonstrukcija i restauracija",
+          "Projekti enterijera"
+        ]
+      },
+      {
+        "title": "KONSTRUKCIJA",
+        "body": [
+          "Idejni projekti konstrukcije",
+          "Glavni i izvedbeni projekti armirano-betonskih,čeličnih i drvenih konstrukcija",
+          "Izrada nacrta izvedbenih detalja čeličnih, armirano-betonskih i drvenih konstrukcija",
+          "Projekti sanacija i rekonstrukcija",
+          "Stručni pregledi, procjene i mišljenja"
+        ]
+      }
+    ]
+  }
+}

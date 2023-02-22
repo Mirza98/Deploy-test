@@ -1,0 +1,11 @@
+{
+  "title": "Nadzor nad izvođenjem radova",
+  "p1": "Usluga nadzora podrazumijeva kontrolu ispunjenosti ugovorenih obaveza izvođača radova, usklađenost izvedenih radova sa odobrenom tehničkom dokumentacijom, praćenje rokova izvođenja radova, praćenje utroška sredstava, kontrolu kvaliteta ugrađenih materijala i kvalitet izvedenih radova, rješavanje tehničkih problema koji nastaju u toku izgradnje objekta.",
+  "supervision": {
+    "serviceDescriptionList": [
+      "Stručni nadzor nad kompletnim građenjem po domaćim, FIDIC i PRAG procedurama",
+      "Projektantski nadzor",
+      "Nadzor nad izvođenjem enterijera"
+    ]
+  }
+}

@@ -1,0 +1,452 @@
+{
+  "nextProject": "Next project",
+  "previousProject": "Previous project",
+  "location": "Location",
+  "areaLabel": "Area",
+  "client": "Client",
+  "service": "Service",
+  "date": "Date",
+  "projects": {
+    "1": {
+      "type": "Sports",
+      "services": ["Architectural design"],
+      "title": "City Arena",
+      "location": "Kamberovića polje, Zenica, Bosnia and Herzegovina",
+      "area": "10.500 m<sup>2</sup>",
+      "client": "The City of Zenica",
+      "description": "The City Arena is designed as a multifunctional hall equipped with the most modern equipment and is capable of holding sports, musical and other social events. The capacity of the hall is 6,300 seats."
+    },
+    "2": {
+      "type": "Educational/Cultural",
+      "services": ["Preliminary Design", "Detailed Design", "Interior Design"],
+      "title": "Zenica City Museum",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "1.432 m<sup>2</sup>",
+      "client": "The City of Zenica",
+      "description": "Museum building is situated in heart of Zenica between Old town and river Bosna. It was built on the site of a building from the Ottoman period and during the design phase it was payed special attention that the new building's shape keep the memory of the old building. The Museum complex consists of a reinforced conrete building - a museum building and a transparent glass garden set towards river Bosna. During the design phase special attention was paid to the entry of the daylight to interior of the building . All exhibition floors(ground floor, first floor and attic) are connected with a skylights which enable daylight to enter all three floors in the same \"vertical\". Attic roof and floor are partially made of transpartent glass while the first floor has opening in the middle."
+    },
+    "3": {
+      "type": "Sports",
+      "services": [
+        "Preliminary Design",
+        "Detailed Design",
+        "Interior Design",
+        "Supervision over Construction Works"
+      ],
+      "title": "Training Center of the Football Association of BiH",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": [
+        {
+          "label": "Construction plot area",
+          "value": "29.126,62 m<sup>2</sup>"
+        },
+        {
+          "label": "Stand area",
+          "value": "3.360,00 m<sup>2</sup>"
+        }
+      ],
+      "client": "The Football Association of Bosnia and Herzegovina",
+      "description": "Training center facility encompasses two full size football fields(one with natural and one with artificial grass), covered artificial grass field for indoor football and covered stand for 1500 spectators(alongside natural grass field). Hotel facilities(for accomondation of athletes), administrative offices and wellness center are situated inside the stand."
+    },
+    "4": {
+      "type": "Educational/Cultural",
+      "services": ["Preliminary Design and Detailed Design"],
+      "title": "Music Academy and Academy of Performing Arts",
+      "location": "The University of Sarajevo Campus, Sarajevo",
+      "area": "22.963  m<sup>2</sup>",
+      "client": "The University of Sarajevo",
+      "description": "The complex of buildings consists of two main parts connected by a covered pedestrian street that goes in a north-south direction. Building of the Academy of Performing Arts is on west side and Music Academy with a large Concert Hall is on east side.\nDesign of the academy complex has four parts that form one whole:\n1) Music Academy with a small concert hall\n2) Large Concert hall\n3) Academy of Performing Arts with film and TV studios\n4) Covered pedestrian street"
+    },
+    "5": {
+      "type": "Sports",
+      "services": ["Preliminary and Main Design"],
+      "title": "Athletic Stadium",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "3.858 m<sup>2</sup>",
+      "client": "The City of Zenica",
+      "description": "Optimal capacity of the covered stand approx. 3000 seats."
+    },
+    "6": {
+      "type": "Public",
+      "services": [
+        "Preliminary and Main Reconstruction Design, Interior Design, Construction Works Supervision"
+      ],
+      "title": "Council of Ministers (Government Building)",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "area": "19.800,00 m<sup>2</sup>",
+      "client": "The Government of the Hellenic Republic on behalf of the European Commission (HiPERB programme)",
+      "description": "Building 3 of the Institutions of Bosnia and Herzegovina was built in 1976. The author of the design is the architect Juraj Neidhart. The building housed the Executive Council (Government) of SR Bosnia and Herzegovina. The building has two underground floors and 22 above-ground floors. During the war from 1992 to 1995 the building was shelled and set on fire which was the reason for reconstruction."
+    },
+    "7": {
+      "type": "Public",
+      "services": ["Preliminary and Main Design"],
+      "title": "International Border Crossing \"Izačić\"",
+      "location": "Bihać, Izačić, BIH",
+      "area": [
+        {
+          "label": "Plot Area",
+          "value": "142.806 m<sup>2</sup>"
+        },
+        {
+          "label": "Building Area",
+          "value": "6.100 m<sup>2</sup>"
+        }
+      ],
+      "client": "World Bank and Federal Ministry of Finance",
+      "description": "Preliminary and Main Design in collaboration with architect Srećko Kreitmayer."
+    },
+    "8": {
+      "type": "Public",
+      "services": [
+        "Design of the existing condition",
+        "Preliminary Design",
+        "Main Design",
+        "Interior Design, Construction Works Supervision"
+      ],
+      "title": "House of Football",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "area": "5.820 m<sup>2</sup>",
+      "client": "The Football Association of Bosnia and Herzegovina",
+      "description": "The existing facility was built in the early eighties of the XX century for the needs of the Geodetic Institute of BiH. During the war from 1992 to 1995, the building suffered some damage caused by shelling. With the new design facility retains the administrative function it had before but it has been modernized and adapted to new users."
+    },
+    "9": {
+      "type": "Public",
+      "services": ["Preliminary and Main Design"],
+      "title": "Service for Foreigners' Affairs",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "area": [
+        {
+          "label": "Building Area",
+          "value": "3.216 m<sup>2</sup>"
+        },
+        {
+          "label": "Exterior Area",
+          "value": "2.588 m<sup>2</sup>"
+        }
+      ],
+      "client": "Ministry of Security of BiH, Service for Foreigners",
+      "description": ""
+    },
+    "10": {
+      "type": "Sports",
+      "services": [
+        "Architectural - Urban Design of whole complex",
+        "Preliminary and Main Design of the Sports Hall, Football field stand, Administrative Building and Relax Building"
+      ],
+      "title": "Sports Center \"Babin do\"",
+      "location": "Bjelašnica Mountain near Sarajevo (Trnovo Municipality), Bosnia and Herzegovina",
+      "area": [
+        {
+          "label": "Buildings Area",
+          "value": "15.590 m<sup>2</sup>"
+        },
+        {
+          "label": "Ground Area",
+          "value": "2.588 m<sup>2</sup>"
+        },
+        {
+          "label": "Plot Area",
+          "value": "112.151 m<sup>2</sup>"
+        }
+      ],
+      "client": "Trnovo Municipality",
+      "description": "Sports and Recreation Center \"Babin do\" is located on Bjelašnica Mountain at an altitude of about 1300 meters. Approximate dimensions of complex are 451 m(length)x280 m(width). Complex encompasses 2 full size football fields, sports hall, relax facility, covered football field stand with a capacity of 1000 spectators, administrative building, 4-star hotel, restaurant and fourteen apartment buildings. During design phase, special care was taken to keep the existing trees."
+    },
+    "11": {
+      "type": "Sports",
+      "services": ["Preliminary design"],
+      "title": "B&H Arena",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "area": "56.501 m<sup>2</sup>",
+      "client": "Municipality Novi Grad",
+      "description": "Football stadium \"B&H Arena\" is located on the territory of the Municipality of Novi Grad in Sarajevo.\nThe maximum capacity of the stadium is 30,305 spectators, and it meets all the criteria of the IV category according to the conditions of UEFA and FIFA and it has the possibility of obtaining the status of an Elite category stadium.\nThe dimensions of the stadium are 194.20m x 151.00m.\nAlong the longer axis, the stadium is oriented in a standard north-south direction.The main stand is located on the west side of the stadium.\nThe stadium has a ground floor and three floors. Spectators area is completely covered and it is divided into two levels.\nThe stadium is well connected with other parts of the city,Corridor 5C highway, train and bus stations and the international airport."
+    },
+    "12": {
+      "type": "commercial",
+      "services": [
+        "Preliminary Design, Detailed Design",
+        "Construction Works Supervision",
+        "Project Management"
+      ],
+      "title": "Business Center \"AKSA\"",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "1.078 m<sup>2</sup>",
+      "client": "\"Intrade consulting\" d.o.o. Sarajevo",
+      "description": "Business Center Aksa is located in the center of Zenica city on the corner of Bašagić Street and Tarabar Street.\nWest side of the building is connected to existing building of \"Prostor\" and together with the \"Prostor\" building it closes a inner courtyard in which the fountain is located. This courtyard is accessible by a staircases from Mehmedalija Tarabar's Street and from Safet Beg Bašagić's Street(on opposite side)."
+    },
+    "13": {
+      "type": "commercial",
+      "services": ["Preliminary and Main design"],
+      "title": "Shopping center \"Tuš\"",
+      "location": "East Sarajevo, Bosnia and Herzegovina",
+      "area": "15.833 m<sup>2</sup>",
+      "client": "Retail Chain \"TUŠ\", Slovenija",
+      "description": ""
+    },
+    "14": {
+      "type": "Educational/Cultural",
+      "services": [
+        "Preliminary and Detailed Design according to the winning Preliminary Design at the \"Competition for the Preliminary Design of the Academy of Performing Arts\""
+      ],
+      "title": "Academy of Performing Arts, Sarajevo",
+      "location": "Sarajevo, Bosnia and Herzegovina",
+      "area": "4.836 m<sup>2</sup>",
+      "client": "Institute for Construction of Sarajevo Canton",
+      "description": "Preliminary design which was the basis for the Detailed design was made according to the first-prize winning preliminary design of architectural competition. Author of winning work was architect Jonus Ademović from New York. Building has 2 underground floors, ground floor, 4 floors and 2-level attic."
+    },
+    "15": {
+      "type": "Educational/Cultural",
+      "services": ["Detailed design"],
+      "title": "University Library",
+      "location": "The University of Sarajevo Campus, Bosnia and Herzegovina",
+      "area": "14.000 m<sup>2</sup>",
+      "client": "Saudi Development Fund and University of Sarajevo",
+      "description": "The Detailed design was made on the basis of the Preliminary design made by architect and professor Adnan Pašić.\n University Library is positioned on the main entrance street of University Campus. Main entrance to the building is on west side and it is oriented towards main Campus square.\nBuilding has two underground levels, ground floor and two above ground floors."
+    },
+    "16": {
+      "type": "Sacral",
+      "services": ["Preliminary and Main Design"],
+      "title": "Orčevići Mosque",
+      "location": "Orčevići, Željezno Polje, Bosnia and Herzegovina",
+      "area": "343 m<sup>2</sup>",
+      "client": "Majlis of the Islamic Community of Žepče, Džemat Orčevići",
+      "description": "Mosque is situated on a very sharp sloped terrain in landslide-prone area.\nParcel is bounded by an existing road on the north side and by imam's house on the northeast side.\nOn the southwest and southeast side there is a steep slope. Access path to low ground floor of the mosque is formed as a cantilever above the slope and retaining walls were constructed to form flattened parts of the courtyard.\nThe building has an irregular shape with maximum dimensions of 21.05mx12.40m. It contains a low ground floor, ground floor, mahfil(upper floor) and minaret that is not physically connected to the building (outside of the mentioned dimensions)."
+    },
+    "17": {
+      "type": "Sacral",
+      "services": ["Preliminary and Main Design"],
+      "title": "White Mosque",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "957 m<sup>2</sup>",
+      "client": "Majlis of the Islamic Community of Zenica",
+      "description": ""
+    },
+    "18": {
+      "type": "Sacral",
+      "services": ["Preliminary and Detailed Design"],
+      "title": "Ensar Mosque",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "1.300 m<sup>2</sup>",
+      "client": "Medžlis Islamske zajednice Zenica",
+      "description": "\"Ensar\" mosque is located in the city neighborhood \"Babina Rijeka\" in the new part of Zenica. The mosque has all the traditional elements recreated in a modern way.\nThe mosque is characterized by an atrium-shaped vestibule surrounded by a colonnade with arches. Atrium (harem) contains two fountains. At the client's request, the atrium is covered with a four-aisled vault with a transparent cover."
+    },
+    "19": {
+      "type": "",
+      "services": ["Construction Works Supervision"],
+      "title": "Cantonal Prosecutor's Office",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "2385,27 m<sup>2</sup>",
+      "client": "Delegation of European Union to BiH",
+      "year": "2016",
+      "description": ""
+    },
+    "20": {
+      "type": "",
+      "services": ["Construction Works Supervision"],
+      "title": "Pavilion IX of Zenica Penitentiary",
+      "year": "2019/2021",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "2.686  m<sup>2</sup>",
+      "client": "Delegation of European Union to BiH",
+      "description": ""
+    },
+    "21": {
+      "type": "",
+      "services": ["Construction Works Supervision"],
+      "title": "Educational Facility and Sports Hall of Orašje Prison",
+      "location": "Orašje, Bosnia and Herzegovina",
+      "year": "2019/2021",
+      "area": "Educational building 955,55 m<sup>2</sup>\nSports hall 612 m<sup>2</sup>",
+      "client": "Delegation of European Union to BiH",
+      "description": ""
+    },
+    "23": {
+      "type": "Sports",
+      "services": ["Main Design"],
+      "title": "Stadium Lighting Poles",
+      "location": "Mostar and Bijeljina",
+      "area": "",
+      "client": "FK Velez Mostar and FK Radnik Bijeljina",
+      "description": ""
+    },
+    "24": {
+      "type": "Residential",
+      "year": "",
+      "services": [
+        "Preliminary and Detailed design",
+        "Construction Works Supervision",
+        "Project Management"
+      ],
+      "title": "Residential and Business Building \"Hadžinica\"",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "1.653,00  m<sup>2</sup>",
+      "client": "Intrade consulting d.o.o. Sarajevo",
+      "description": ""
+    },
+    "25": {
+      "type": "Residential",
+      "services": ["Preliminary and Detailed Design"],
+      "title": "Residental and Business Building \"Rosulje\"",
+      "location": "Vogošća, Sarajevo, Bosnia and Herzegovina",
+      "area": "22.760,89  m<sup>2</sup>",
+      "client": "Fund for housing construction of Sarajevo Canton",
+      "year": "",
+      "description": ""
+    },
+    "26": {
+      "type": "Industrial",
+      "services": ["Preliminary and Main Design"],
+      "title": "Oxygen Hall 1 and 2 at Messer Zenica Production Plant",
+      "location": "Zenica, Bosnia and Herzegovina",
+      "area": "",
+      "client": "Messer BH Gas",
+      "description": ""
+    },
+    "27": {
+      "type": "Industrial",
+      "services": ["Supervision of Construction Works"],
+      "title": "Cellulose tanks at Natron-Hayat",
+      "location": "Maglaj, Bosnia and Herzegovina",
+      "area": "",
+      "client": "Natron-Hayat",
+      "description": ""
+    },
+    "28": {
+      "type": "Industrial",
+      "services": ["Design"],
+      "title": "Reservoir tank at Natron-Hayat",
+      "location": "Maglaj, Bosnia and Herzegovina",
+      "area": "",
+      "client": "Natron-Hayat",
+      "description": ""
+    },
+    "29": {
+      "type": "Industrial",
+      "services": ["Design"],
+      "title": "Railway Weighting Scale 100t at Arcelor Mittal",
+      "location": "Zenica, BiH",
+      "area": "",
+      "client": "Vage d.o.o. Zagreb",
+      "description": ""
+    },
+    "30": {
+      "type": "Industrial",
+      "services": ["Design"],
+      "title": "Central Warehouse at Thermal Power Plant Kakanj",
+      "location": "Kakanj, Bosnia and Herzegovina",
+      "area": "",
+      "client": "Thermal Power Plant Kakanj",
+      "description": ""
+    },
+    "31": {
+      "type": "Industrial",
+      "services": ["Design"],
+      "title": "Tipper Station at Thermal Power Plant Kakanj",
+      "location": "Kakanj, Bosnia and Herzegovina",
+      "area": "",
+      "client": "Thermal Power Plant Kakanj",
+      "description": ""
+    },
+    "32": {
+      "type": "other",
+      "services": ["Preliminary and Main Designs", "Supervision of Construction Works", "Project Management"],
+      "title": "Energopetrol Gas Stations",
+      "location": "Sarajevo, Zenica, Tuzla, Bihać, Mostar, Jablanica, Travnik, Bosanska Krupa, Gradačac, Maglaj, Vareš",
+      "area": "",
+      "client": "ENERGOPETROL SARAJEVO",
+      "year": "",
+      "description": ""
+    },
+    "33": {
+      "type": "other",
+      "services": ["Preliminary and Main Designs,", "Supervision of Construction Works", "Project Management"],
+      "title": "Holdina Gas Stations",
+      "location": "Sarajevo, Zenica, Cazin, Drvar, Fojnica, Travnik, Derventa, Kalesija, Srebrenik, Breza, Tešanj, Donji Vakuf, Bosanski Petrovac, Prijedor, Žepče, Konjic, Živinice",
+      "year": "",
+      "area": "",
+      "client": "HOLDINA SARAJEVO",
+      "description": ""
+    },
+    "34": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "Norton Museum",
+      "location": "West Palm Beach, Florida, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "35": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "Franklin & Marshall College",
+      "location": "Lancaster, Pennsylvania, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "36": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "TN State Library",
+      "location": "Nashville, Tennessee, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "37": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "The Joseph Hotel",
+      "location": "Nashville, Tennessee, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "38": {
+      "type": "Facade Projects",
+      "services": ["Facade and Interior Panels Engineering"],
+      "title": "Willis Tower",
+      "location": "Chicago, Illinois, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "39": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "Idexx",
+      "location": "Westbrook, Maine, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "40": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "BNA (Nashville International Airport)",
+      "location": "Nashville, Tennessee, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "41": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "VUMC Children's Hospital",
+      "location": "Nashville, Tennessee, USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "42": {
+      "type": "Facade Projects",
+      "services": ["Facade Engineering"],
+      "title": "Jaguar Landrover",
+      "location": "USA",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    }
+  }
+}

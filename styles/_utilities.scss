@@ -1,0 +1,176 @@
+.has-background-transparent {
+  background-color: transparent !important;
+}
+
+.is-absolute {
+  position: absolute;
+}
+
+.is-full-viewport-width {
+  width: 100vw;
+}
+
+.showNavbarMenu {
+  top: 0;
+
+  &.navmenu {
+    top: 0;
+  }
+}
+
+#quote {
+  position: relative;
+  width: 100%;
+  &::before {
+    position: absolute;
+    top: -3.5rem;
+    left: -2.9rem;
+    content: '\201c';
+    font-size: 8.25rem;
+    align-items: flex-end;
+    font-family: 'Helvetica';
+  }
+}
+.letter-spacing {
+  letter-spacing: 0.5px;
+}
+
+.center {
+  display: grid;
+  place-content: center;
+  place-items: center;
+}
+
+.cover-blog-photo {
+  height: 37.5rem;
+  width: 100%;
+  object-fit: cover;
+}
+
+.border-bottom {
+  border-bottom: 1px solid black;
+}
+
+.menu-footer-spacing {
+  &:not(last-child) {
+    margin-bottom: 1.25rem;
+  }
+}
+
+.reverse {
+  @include until($desktop) {
+    flex-direction: column-reverse;
+  }
+}
+
+.break-lines {
+  white-space: pre-line;
+}
+
+.py-6 {
+  padding-top: 5rem !important;
+  padding-bottom: 5rem !important;
+}
+
+.py-5 {
+  padding-top: 3.125rem !important;
+  padding-bottom: 3.125rem !important;
+}
+
+.has-grey-background {
+  background-color: $grey;
+}
+
+.mx-auto {
+  margin: 0 auto !important;
+}
+
+.not-clickable {
+  a {
+    cursor: default;
+  }
+}
+
+.no-letter-spacing {
+  letter-spacing: 0 !important;
+}
+
+.pb-9 {
+  padding-bottom: 9rem;
+}
+.pt-4 {
+  padding-top: 4rem !important;
+}
+
+.object-fit-cover {
+  object-fit: cover;
+}
+
+.underline {
+  background-image: linear-gradient(transparent 92%, $primary-black 0.5em);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  display: inline;
+  transition: 0.5s ease;
+
+  &-hover {
+    .underline-span {
+      background-image: linear-gradient(transparent 95%, $primary-black 1em);
+      background-size: 100%;
+      background-repeat: no-repeat;
+      display: inline;
+      transition: 0.5s ease;
+    }
+    .underline-span {
+      background-size: 0;
+    }
+    &:hover {
+      .underline-span {
+        background-size: 100%;
+      }
+    }
+  }
+}
+
+.px-2rem {
+  padding-left: 2rem !important;
+  padding-right: 2rem !important;
+}
+
+.mx-2rem {
+  margin-left: 2rem;
+  margin-right: 2rem;
+  &-mobile {
+    @include mobile {
+      margin-left: 2rem;
+      margin-right: 2rem;
+    }
+  }
+}
+
+.my-4rem {
+  margin-top: 4rem !important;
+  margin-bottom: 4rem !important;
+}
+
+.my-2rem {
+  margin-top: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.back-to-position {
+  position: relative;
+  bottom: 30vh;
+}
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.project-bg {
+  background-image: url('../public/assets/logos/logo-black.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}

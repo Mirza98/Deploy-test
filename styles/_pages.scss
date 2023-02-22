@@ -1,0 +1,287 @@
+/* HOME PAGE */
+
+#home-video {
+  object-fit: cover;
+  width: 100vw;
+  height: 100vh;
+  position: fixed;
+  top: 0;
+  left: 0;
+}
+
+.viewport-header {
+  position: relative;
+  height: 100vh;
+  text-align: center;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  .title.is-1 {
+    color: $white;
+    display: hidden;
+
+    @include fade-in('700ms');
+    animation-iteration-count: initial;
+  }
+}
+
+/* BLOG */
+
+.cover-blog-photo {
+  position: relative;
+  height: unset;
+}
+
+/* SINGLE BLOG PAGE */
+.single-blog-page__header {
+  background-size: cover;
+  background-position: center;
+  height: 50vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  position: relative;
+
+  .overlay {
+    background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.92), rgba(0, 0, 0, 0.73));
+    z-index: 10;
+  }
+
+  .title {
+    color: $white;
+  }
+  .section.p-0-mobile {
+    @include mobile {
+      padding: 1.5rem 0.5rem;
+    }
+  }
+}
+
+.blog-item {
+  &-date {
+    @include until($tablet) {
+      font-size: 0.75rem;
+    }
+  }
+  &-title {
+    @include until($tablet) {
+      font-size: 1.5rem;
+    }
+  }
+  &-breadcrumb {
+    @media screen and(max-width:400px) {
+      li {
+        font-size: 7px;
+      }
+    }
+  }
+}
+
+.blog-arrow-button-left {
+  @media screen and(max-width:400px) {
+    svg {
+      font-size: 0.5rem;
+    }
+  }
+}
+
+.single-blog-page__ #blog-title {
+  margin-top: 3.75rem;
+  margin-bottom: 3.75rem;
+}
+
+.single-story-header {
+  position: relative;
+
+  .single-story-box {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    .single-story-titles {
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      padding: 2.5rem 0;
+
+      & .title.is-2,
+      .title.is-3 {
+        color: $white;
+      }
+
+      .date {
+        align-self: flex-start;
+      }
+      .story-title {
+        align-self: center;
+      }
+    }
+    .single-story-nav {
+    }
+  }
+}
+
+/******************/
+
+/* CLIENTS */
+
+ul {
+  margin: 0;
+}
+ul.dashed {
+  list-style-type: none;
+  .title {
+    color: $primary-black !important;
+  }
+}
+ul.dashed > li {
+  text-indent: -5px;
+  display: flex;
+  word-wrap: none;
+}
+ul.dashed > li:before {
+  content: '-';
+  display: block;
+  margin-right: 0.75rem;
+}
+
+.clients-logos.column {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+
+  @include mobile {
+    padding: 2rem;
+  }
+}
+.clients-logos-columns {
+  min-height: 70vh;
+}
+
+.other-clients-list {
+}
+
+/* ABOUT */
+.about-header {
+  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.12), rgba(0, 0, 0, 0.73)),
+    url('../public/slike/o-nama1.jpeg');
+
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 0rem;
+
+  .title.is-1 {
+    color: $white;
+    margin-bottom: 2rem;
+  }
+}
+.img-about-page {
+  height: 100%;
+  object-fit: cover;
+}
+.team-section.section {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  .title.is-2 {
+    color: $white;
+    @include until($tablet) {
+      font-size: 2.125rem;
+    }
+  }
+  background-image: url('../public/slike/nas-tim.jpg');
+  background-size: cover;
+  background-position: center;
+  height: 32rem;
+  padding: 3.5rem 3.7rem;
+}
+
+/* TEAM */
+.team-header {
+  background-image: linear-gradient(to bottom, rgba(245, 246, 252, 0.12), rgba(0, 0, 0, 0.73)),
+    url('../public/slike/nas-tim.jpg');
+
+  background-size: cover;
+  background-position: center;
+  height: 100vh;
+  display: flex;
+  align-items: flex-end;
+  justify-content: center;
+  margin-bottom: 0;
+
+  .title.is-1 {
+    color: $white;
+    margin-bottom: 2rem;
+  }
+}
+
+.img-about-page {
+}
+
+#team-list .container {
+  @include desktop {
+    max-width: 960px;
+  }
+  @include mobile {
+    max-width: 500px;
+  }
+}
+
+/* SINGLE PROJECT PAGE */
+
+.single-project-page {
+  padding-left: 2rem;
+  padding-right: 2rem;
+
+  @media only screen and (max-width: 768px) {
+    padding: 0;
+  }
+}
+
+.project-images {
+  width: 100%;
+}
+
+.project-overview-column.column {
+  padding-bottom: 50rem;
+  @include until($desktop) {
+    padding-bottom: 1rem;
+  }
+}
+
+/* SERVICES */
+
+.services-photo {
+  height: 100%;
+  object-fit: cover;
+  max-height: 25rem;
+  width: 100%;
+
+  @include mobile {
+    max-height: 25rem;
+    width: 100%;
+  }
+}
+
+/* DESIGNING */
+
+.designing-block {
+  &:not(last-child) {
+    margin-bottom: 1.5rem;
+  }
+}
+
+/* 404 PAGE */
+
+.error-page {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 5rem 0;
+}

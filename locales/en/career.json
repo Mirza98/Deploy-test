@@ -1,0 +1,84 @@
+{
+  "title": "Career",
+
+  "topAnnouncement": "Aksa's success is based on educated, experienced and creative staff as well as teamwork that encourages cooperational learning and training. Our business politics and all organizational processes are the result of our acknowledgment that people are the most important development resource and capital. Therefore, we are always looking for new and talented people.",
+
+  "appliactions": "Send your applications with your CV to email",
+
+  "JobOffers": [
+    {
+      "subtitle": "Graduate engineer of Architecture",
+      "title": "Architect/Designer (m/f)",
+      "content": [
+        {
+          "title": "Required qualifications and experience:",
+          "list": [
+            "completed study of architecture",
+            "advanced knowledge of AutoCAD",
+            "advanced knowledge of REVIT (desirable)",
+            "excellent knowledge of English spoken and written",
+            "preferably knowledge of German",
+            "good communication and organizational skills",
+            "work precision"
+          ]
+        },
+        {
+          "title": "Responsibilities and tasks:",
+          "list": [
+            "design and preparation of project documentation for all phases",
+            "responsible and independent completion of tasks",
+            "work on project coordination while meeting deadlines"
+          ]
+        },
+        {
+          "title": "We offer:",
+          "list": [
+            "work in a dynamic and creative environment",
+            "professional and creative development",
+            "involvement in all phases of the project, from the conceptual phase until finish",
+            "permanent employment",
+            "stimulant income"
+          ]
+        }
+      ]
+    },
+    {
+      "subtitle": "Graduate Civil Engineer / Master of Civil Engineering",
+      "title": "Civil Engineer/Designer (m/f)",
+      "content": [
+        {
+          "title": "Required qualifications and experience:",
+          "list": [
+            "completed study of Civil Engineering",
+            "advanced knowledge of AutoCAD",
+            "excellent knowledge of English spoken and written",
+            "preferably knowledge of German",
+            "good communication and organizational skills",
+            "work precision"
+          ]
+        },
+        {
+          "title": "Responsibilities and tasks:",
+          "list": [
+            "making static calculations",
+            "making concrete formwork drawings",
+            "making reinforcement plans",
+            "making steel drawings",
+            "responsible and independent completion of tasks",
+            "work on project coordination while meeting deadlines"
+          ]
+        },
+        {
+          "title": "We offer:",
+          "list": [
+            "work in a dynamic and creative environment",
+            "professional and creative development",
+            "involvement in all phases of the project, from the concept until finish",
+            "permanent employment",
+            "stimulant income"
+          ]
+        }
+      ]
+    }
+  ]
+}

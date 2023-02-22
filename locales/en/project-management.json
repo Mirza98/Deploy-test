@@ -1,0 +1,11 @@
+{
+  "title": "Project Management",
+  "p1": "Project management covers all the project phases from the preliminary design phase to the completed building handover to the User/Investor. It is focused on solving project problems and realization of the ideas and needs which were the reasons for the launching of the project.",
+  "projectManagment": {
+    "serviceDescriptionList": [
+      "Project Management from the preliminary design to the usage/operating permit",
+      "Consulting and obtaining necessary permits",
+      "Coordination between Designer, Works Contractors and Investor"
+    ]
+  }
+}

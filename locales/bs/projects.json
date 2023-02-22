@@ -1,0 +1,456 @@
+{
+  "nextProject": "Sljedeći projekat",
+  "previousProject": "Prethodni projekat",
+  "location": "Lokacija",
+  "areaLabel": "Površina",
+  "client": "Klijent",
+  "service": "Usluga",
+  "date": "Datum",
+  "projects": {
+    "1": {
+      "type": "sportski",
+      "services": ["projekat arhitekture"],
+      "title": "Gradska arena Zenica",
+      "location": "Kamberovića polje, Zenica, Bosna i Hercegovina",
+      "area": "10.500 m<sup>2</sup>",
+      "client": "Grad Zenica",
+      "description": "Gradska Arena je projektovana kao  multifukcionalna dvorana opremljena najsavremenijom opremom i  osposobljena je za održavanje sportskih, klupskih, koncertnih i ostalih društvenih aktivnosti. Kapacitet dvorane je 6.300 mjesta."
+    },
+    "2": {
+      "type": "obrazovno/kulturni",
+      "services": ["idejni", "izvedbeni projekat", "projekat enterijera"],
+      "title": "Muzej Grada Zenica",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "1.432 m<sup>2</sup>",
+      "client": "Grad Zenica",
+      "description": "Jednom stranom  Muzej  je okrenut  prema staroj  gradskoj jezgri a drugom prema  rijeci Bosni. Izgrađen je na lokaciji zgrade iz Osmanlijskog perioda. Novi objekat je projektovan na način da svojim gabaritom i oblikom  zadrži sjećanje na staru zgradu. Objekat muzeja čine \"čvrsti, zidani\" objekat – zgrada muzeja i transparentna staklena bašta postavljena prema rijeci Bosni. Prilikom izrade projektne okumentacije posebno se vodilo računa o prodoru svjetlosti u objekat. Projektant je sve izložbene etaže povezao svjetlarnikom (prizemlje, sprat i mansarda), i tako omogućio u istoj tlocrtnoj \"vertikali\"  ulazak dnevnog osvjetljenja u sve tri etaže. Na krovu mansarde je projektovan stakleni krov, pod je projektovan kao  transparentni stakleni pod,  na podu sprata je otvoreno \"zrcalo\"."
+    },
+    "3": {
+      "type": "sportski",
+      "services": [
+        "idejni projekat",
+        "glavni projekat",
+        "projekat enterijera",
+        "nadzor-nad-izvođenjem-radova"
+      ],
+      "title": "Trening centar Nogometnog/Fudbalskog saveza BiH",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": [
+        {
+          "label": "POVRŠINA PARCELE ZA IZGRADNJU",
+          "value": "29.126,62 m<sup>2</sup>"
+        },
+        {
+          "label": "POVRŠINA TRIBINE",
+          "value": "3.360,00 m<sup>2</sup>"
+        }
+      ],
+      "client": "Nogometni / Fudbalski Savez BiH",
+      "description": "Na lokaciji je projektovana  izgradnja dva nogometna terena standardnih dimenzija 105,0x68,0 metara, jedan sa prirodnom a drugi sa vještačkom travom te natkriveni  teren za mali nogomet sa vještačkom travom. Uz teren sa prirodnom travom na južnoj strani projektovan je objekat natkrivene tribine za 1500 gledalaca. U sklopu tribine projektovani su hotelski sadržaji za smještaj  sportista, wellness centar  i administrativni prostori za osoblje."
+    },
+    "4": {
+      "type": "obrazovno/kulturni",
+      "services": ["Idejni i izvedbeni projekat"],
+      "title": "Muzička akademija i Akademija scenskih umjetnosti",
+      "location": "Kampusu Univerziteta u Sarajevu",
+      "area": "22.963  m<sup>2</sup>",
+      "client": "Univerzitet u Sarajevu",
+      "description": "Kompleks objekata sastoji se iz dva dijela međusobno povezana natkrivenom pješačkom ulicom koja se proteže u pravcu sjever – jug. Na zapadnoj strani je objekat Akademije scenskih umjetnosti i na istočnoj Muzička akademija sa velikom Koncertnom dvoranom koja je dilatirana. Glavni projekti kompleksa akademija imaju četiri dijela koji čine jednu cjelinu:\nMuzička akademija sa malom koncertnom dvoranom\nVelika koncertna dvorana\nAkademija scenskih umjetnosti sa studijima za film i TV\nNatkrivena pješačka ulica"
+    },
+    "5": {
+      "type": "sportski",
+      "services": ["idejni i glavni projekat"],
+      "title": "Atletski stadion",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "3.858 m<sup>2</sup>",
+      "client": "Grad Zenica",
+      "description": "Optimalni kapacitet natkrivene tribine (za velika atletska takmičenja) cca. 3000 sjedećih mjesta."
+    },
+    "6": {
+      "type": "javni",
+      "services": [
+        "Idejni i glavni projekat rekonstrukcije,projekat enterijera, nadzor nad izvođenjem radova"
+      ],
+      "title": "Vijeće ministara",
+      "location": "Sarajevo, Bosna i Hercegovina",
+      "area": "19.800,00 m<sup>2</sup>",
+      "client": "Vlade Republike Grčke u ime Europske  komisije (HiPERB program)",
+      "description": "Objekat 3. Institucija Bosne i Hercegovine izgrađen je 1976. godine. Autor projekta je arhitekta Juraj Neidhart. U objektu je bilo smješteno Izvršno vijeće (Vlada) SR Bosne i Hercegovine. Objekat ima dvije podzemne etaže (suteren i podrum) i dvadeset i dvije nadzemne etaže. U toku rata 1992. do 1995. objekat je granatiran i zapaljen, što je i razlog sanacije i rekonstrukcije"
+    },
+    "7": {
+      "type": "javni",
+      "services": ["idejni i glavni projekat"],
+      "title": "Međunarodni granični prijelaz \"Izačić\"",
+      "location": "Bihać, Izačić, BIH",
+      "area": [
+        {
+          "label": "POVRŠINA PARCELE",
+          "value": "142.806 m<sup>2</sup>"
+        },
+        {
+          "label": "POVRŠINA OBJEKTA",
+          "value": "6.100 m<sup>2</sup>"
+        }
+      ],
+      "client": "Svjetska banka i Federalno Ministarstvo Finasija",
+      "description": "Idejni i glavni projekat u saradnji sa Srećkom Kreitmayerom d.i.a."
+    },
+    "8": {
+      "type": "javni",
+      "services": [
+        "Projekat postojećeg stanja",
+        "idejni projekat",
+        "glavni projekat",
+        "projekat enterijera, nadzor nad izvođenjem radova"
+      ],
+      "title": "Kuća fudbala",
+      "location": "Sarajevo, Bosna i Hercegovina",
+      "area": "5.820 m<sup>2</sup>",
+      "client": "Nogometni Savez / Fudbalski Savez BiH",
+      "description": "Postojeći objekat izgrađen je početkom osamdesetih godina prošloga stoljeća za potrebe Geodetskog zavoda BiH. Tokom ratnih dešavanja, od 1992. godina do 1995. godine,  objekat je  pretrpio izvjesna oštećenja, izazvana granatiranjem. Novim projektom objekat zadržava administrativnu funkciju koju je imao i ranije ali je osavremljen i prilagođen novim korisnicima."
+    },
+    "9": {
+      "type": "javni",
+      "services": ["idejni i glavni projekat"],
+      "title": "Služba za poslove sa strancima",
+      "location": "Sarajevo, Bosna i Hercegovina",
+      "area": [
+        {
+          "label": "POVRŠINA OBJEKTA",
+          "value": "3.216 m<sup>2</sup>"
+        },
+        {
+          "label": "POVRŠINA VANJSKOG UREĐENJA",
+          "value": "2.588 m<sup>2</sup>"
+        }
+      ],
+      "client": "Ministarstvo sigurnosti BiH, Služba za poslove sa strancima",
+      "description": ""
+    },
+    "10": {
+      "type": "sportski",
+      "services": [
+        "Arhitektonsko – urbanistički projekat",
+        "idejni i glavni projekat sportske dvorane, tribine, administrativnog objekta i relax objekta"
+      ],
+      "title": "Sportski centar \"Babin do\"",
+      "location": "Planina Bjelašnica kod  Sarajeva (općina Trnovo), Bosna i Hercegovina",
+      "area": [
+        {
+          "label": "POVRŠINA OBJEKATA",
+          "value": "15.590 m<sup>2</sup>"
+        },
+        {
+          "label": "POVRŠINA TERENA",
+          "value": "2.588 m<sup>2</sup>"
+        },
+        {
+          "label": "POVRŠINA PARCELE",
+          "value": "112.151 m<sup>2</sup>"
+        }
+      ],
+      "client": "Općina Trnovo",
+      "description": "Sportski centar \"Babin do\" smješten je na planini Bjelašnica na nadmorskoj visini cca 1300 metara. Dužina kompleksa centra je cca 451metar a širina cca 280 metara. Pri planiranju centra vodilo se računa da se u maksimalnoj mjeri zadrži postojeće crnogorično rastinje.Unutar kompleksa planirani su sljedeći sadržaji: Sportska dvorana, relax objekat, tribina kapaciteta 1000 gledalaca, administrativni objekat, hotel sa 4 zvjezdice,objekat vidikovac, četrnaest apartmanskih objekata."
+    },
+    "11": {
+      "type": "sportski",
+      "services": ["Idejno rješenje"],
+      "title": "B&H Arena",
+      "location": "Sarajevo, Bosna i Hercegovina",
+      "area": "56.501 m<sup>2</sup>",
+      "client": "Općina Novi Grad",
+      "description": "Fudbalski stadion \"B&H Arena\" lociran je na teritoriji Općine Novi Grad u Sarajevu.\nMaksimalni kapacitet stadiona je 30.305 gledalaca, a zadovoljava sve kriterije IV kategorije po uslovima UEFA-e i FIFA-e sa mogućnošću da dobije status stadiona elitne kategorije.\nDimenzije stadiona su 194,20m x 151,00m.\nDužom osovinom stadion je orjentisan u pravcu sjever-jug što je preporučena orijentacija za fudbalske stadione.\nStadion ima prizemlje i tri sprata. Gledalište stadiona je podijeljeno u dva nivoa. Cjelokupno gledalište stadiona je pokriveno. \"Glavna tribina\" nalazi se na zapadnoj strani stadiona.\nStadion je kvalitetno povezan sa ostalim dijelovima grada, autoputom na koridoru 5C, željezničkom i autobuskom stanicom kao i međunarodnim aerodromom."
+    },
+    "12": {
+      "type": "komercijalni",
+      "services": [
+        "Idejni projekat, izvedbeni projekat,",
+        "nadzor nad izvođenjem radova",
+        "upravljanje projektom"
+      ],
+      "title": "Poslovni centar \"Aksa\"",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "1.078 m<sup>2</sup>",
+      "client": "\"Intrade consulting\" d.o.o. Sarajevo",
+      "description": "Objekat je smješten na uglu ulica Safvet Bega Bašagića i Mehmedalije Tarabara. Jednom svojom bočnom stranom objekat se približava postojećoj zgradi \"Prostora\" i takvog je tlocrtnog oblika da sa zgradom “Prostora” zatvara neku vrstu unutrašnjeg dvorišta u kojem je smještena fontana, a u ovo dvorište se prilazi pristupnim stepeništem iz ulice M. Tarabara, odnosno drugim stepeništem iz ulice S. B. Bašagića.\nZona u kojoj je objekat izgrađen je po svojoj namjeni kombinovana: stambeno – poslovno – pješačka, a objekat je čisto poslovni."
+    },
+    "13": {
+      "type": "komercijalni",
+      "services": ["Idejni i glavni projekat"],
+      "title": "Tržni centar \"Tuš\"",
+      "location": "Istočno Sarajevo, Bosna i Hercegovina",
+      "area": "15.833 m<sup>2</sup>",
+      "client": "Tragovački lanac \"TUŠ\", Slovenija",
+      "description": ""
+    },
+    "14": {
+      "type": "obrazovno/kulturni",
+      "services": [
+        "Idejni projekat i izvedbeni projekat,prema pobjedničkom idejnom rješenju na \"Natječaju  za idejno rješenje objekta Akademije scenskih umjetnosti\""
+      ],
+      "title": "Akademija scenskih umjetnosti",
+      "location": "Sarajevo, Bosna i Hercegovina",
+      "area": "4.836 m<sup>2</sup>",
+      "client": "Zavod za izgradnju Kantona Sarajevo",
+      "description": "Idejni projekat – podloga za razradu  izvedbenog projekta, rađen je na osnovu prvonagrađenog idejnog rješenja na javnom, anonimnom arhitektonskom natječaju.\nAutor: arhitekt Jonus Ademović, New York.\nObjekat ima spratost Po+Su+P+4+2M (podrumska etaža, suteren, prizemlje, 4 sprata, 2 nivoa mansarde)."
+    },
+    "15": {
+      "type": "obrazovno/kulturni",
+      "services": ["Izvedbeni projekat"],
+      "title": "Univerzitetska biblioteka",
+      "location": "Kampus Univerziteta u  Sarajevu, Bosna i Hercegovina",
+      "area": "14.000 m<sup>2</sup>",
+      "client": "Saudijski Fond za razvoj i Univerzitet u Sarajevu",
+      "description": "Izvedbeni projekat je urađen na osnovu, od Investitora prihvaćenog idejnog projekta autora vanr. prof. Adnana Pašića dipl.ing.arh. i \"pratio\" je idejni projekat u maksimalnoj mogućoj mjeri.\nU skladu sa Regulacionim planom, Univerzitetska biblioteka je pozicionirana na glavnoj ulaznoj osi Kampusa sa ulaznom zapadnom fasadom orjentisanom na glavni trg Kampusa.\nSpratnost objekta je 2Po + P + 2 (dva nivoa podruma, prizemlje, 2 sprata)."
+    },
+    "16": {
+      "type": "sakralni",
+      "services": ["Idejni i glavni projekat"],
+      "title": "Džamija Orčevići",
+      "location": "Orčevići, Željezno polje, Žepče, Bosna i Hercegovina",
+      "area": "343 m<sup>2</sup>",
+      "client": "Medžlis Islamske zajednice Žepče, Džemat Orčevići",
+      "description": "Teren na kojem je projektovana džamija  je u veoma oštrom nagibu. Parcela je ograničena sa sjeverne strane postojećom saobraćajnicom, a na sjeveroistočnoj strani se nalazi kuća imama. Na jugozapadnoj i jugoistočnoj strani je strma padina, nema objekata u neposrednoj blizini. Na tim stranama, uz postojeći objekat formiran je prilaz dvorišnoj strani objekta kao konzola iznad padine i podignuti su potporni zidovi da bi se formirali zaravnjeni dijelovi dvorišta.\nObjekat je nepravilnog oblika maksimalnih dimenzija gabarita 21,05m x 12,40m, spratnosti NP+P+S odnosno sadrži nisko prizemlje, prizemlje, mahfil i minaret koji nije fizički vezan za objekat (izvan pomenutog gabarita)."
+    },
+    "17": {
+      "type": "sakralni",
+      "services": ["Idejni i glavni projekat"],
+      "title": "Bijela džamija",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "957 m<sup>2</sup>",
+      "client": "IZ BIH, Medžlis Islamske zajednice Zenica",
+      "description": "Dominantu u oblikovnom smislu džamije čine tradicionalni elementi kubus (ali ne kao jedinstvena nego kao dvije međusobno “prožete” kocke) i  kupola.\nTu su još i cilindar sa kuglom kupole ulaznog dijela (sa tlocrtom u obliku kružnog isječka), luk ulaznog trijema, kružni cilindri stubišta sa kuglama kupole te vitki korpus munare sa dva šerefeta koji proističu iz oblika kugle.\nCilindrični stubovi preko vitičastih lukova u obliku “cvijeta” nose “polumjesec” ulaznog trijema. Sva ova geometrija ponavlja se i u unutrašnjosti džamije, kupolu nosi osam međusobno prožetih lukova a mahfil ima oblik upisanog kruga u osmokrug (kao što je “upisana” i kupola).\nOvu “geometriju” slijede i mihrab i mimber i stubište.\nSva ova “kubistička” kompozicija – treba da sa tradicionalnim elementima međusobno prožetim na moderniji način stvori ambijent u kome će se osjetiti kontinuitet tradicionalnih prostornih odnosa a da se izgubi jednostavno ponavljanje istog.\nDužina objekta džamije iznosi 29,43 metra, širina 22,51 metara, visina tjemena glavne kupole je 21,67 metara iznad uređenog terena oko objekta a visina vrha munare je 45 metara."
+    },
+    "18": {
+      "type": "sakralni",
+      "services": ["Idejni i izvedbeni projekat"],
+      "title": "Ensar džamija",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "1.300 m<sup>2</sup>",
+      "client": "Medžlis Islamske zajednice Zenica",
+      "description": "\"Ensar\" džamija je locirana u planski izgrađenom naselju \"Babina rijeka\" u novom dijelu Zenice. Džamija ima sve tradicionalne elemente tretirane na savremen način.\nZa džamiju je karakterističan predprostor u vidu atrija koji je okružen kolonadom sa lukovima. U atriju (haremu) projektom su bila predviđena dva šadrvana. Na zahtjev klijenta atrij je natkriven četvorovodnim svodom sa transparentnim pokrovom."
+    },
+    "19": {
+      "type": "",
+      "services": ["nadzor nad izvođenjem radova"],
+      "title": "Kantonalno tužilaštvo",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "2385,27 m<sup>2</sup>",
+      "client": "Evropska Unija",
+      "year": "2016",
+      "description": ""
+    },
+    "20": {
+      "type": "",
+      "services": ["nadzor nad izvođenjem radova"],
+      "title": "Paviljon IX KPZ Zenica",
+      "year": "2019/2021",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "2.686  m<sup>2</sup>",
+      "client": "EU iz sredstava namjenjenih za podršku vladavine prava i osiguranje učinkovitosti , profesionalnosti i nezavisnosti sektora pravasuđa\nVRIJEDNOST RADOVA / DONACIJE:2.200.000 Eura",
+      "description": ""
+    },
+    "21": {
+      "type": "",
+      "services": ["nadzor nad izvođenjem radova"],
+      "title": "Edukacijski objekat i sportska dvorana, KPZ Orašje",
+      "location": "Orašje, Bosna i Hercegovina",
+      "year": "2019/2021",
+      "area": "Edukacijski objekat,  tlocrtnih dimenzija 37 x 16 m i sastoji se iz prizemlja i jednog sprata. Sportska dvorana , tlocrtnih dimenzija 17 x 36 m",
+      "client": "EU iz sredstava namjenjenih za podršku vladavine prava i osiguranje učinkovitosti , profesionalnosti i nezavisnosti sektora pravasuđa.",
+      "description": ""
+    },
+    "23": {
+      "type": "sportski",
+      "services": ["projektovanje"],
+      "title": "Reflektorska rasvjeta",
+      "location": "",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "24": {
+      "type": "stambeni",
+      "year": "2005",
+      "services": [
+        "projektovanje",
+        "nadzor nad izvođenjem radova",
+        "Idejni i izvedbeni projekat, nadzor nad izvođenjem radova, upravljanje projektom"
+      ],
+      "title": "Stambeno-poslovni objekat \"Hadžinica\"",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "1.653,00  m<sup>2</sup>",
+      "client": "Intrade consulting d.o.o. Sarajevo",
+      "description": ""
+    },
+    "25": {
+      "type": "stambeni",
+      "services": ["Idejni i izvedbeni projekat"],
+      "title": "Stambeno-poslovni objekat \"Rosulje\"",
+      "location": "Sarajevo - Vogošća, Bosna i Hercegovina",
+      "area": "22.760,89  m<sup>2</sup>",
+      "client": "Fond kantona Sarajevo za izgradnju stanova",
+      "year": "2008 - 2009",
+      "description": ""
+    },
+    "26": {
+      "type": "industrijski",
+      "services": ["projektovanje"],
+      "title": "Kisikana 1 i 2 u Messeru",
+      "location": "Zenica, Bosna i Hercegovina",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "27": {
+      "type": "industrijski",
+      "services": ["nadzor"],
+      "title": "Tankovi za celulozu u Natron-Hayatu",
+      "location": "Maglaj, Bosna i Hercegovina",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "28": {
+      "type": "industrijski",
+      "services": ["projektovanje"],
+      "title": "Tank posuda rezervoara Natron-Hayat",
+      "location": "Maglaj, Bosna i Hercegovina",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "29": {
+      "type": "industrijski",
+      "services": ["projektovanje"],
+      "title": "Željeznička vaga 100T u Arcelor Mittalu",
+      "location": "Zenica, BiH",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "30": {
+      "type": "industrijski",
+      "services": ["projektovanje"],
+      "title": "Centralno skladište, Termoelektrana Kakanj",
+      "location": "Kakanj, Bosna i Hercegovina",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "31": {
+      "type": "industrijski",
+      "services": ["projektovanje"],
+      "title": "Kiper stanica, Termoelektrana Kakanj",
+      "location": "Kakanj, Bosna i Hercegovina",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "32": {
+      "type": "ostalo",
+      "services": ["projektovanje", "nadzor", "upravljanje projektom"],
+      "title": "Benzinske pumpe Energopetrol",
+      "location": "Sarajevo, Zenica, Tuzla, Bihać, Mostar, Jablanica, Travnik, Bosanska Krupa, Gradačac, Maglaj, Vareš",
+      "area": "",
+      "client": "ENERGOPETROL SARAJEVO",
+      "year": "",
+      "description": ""
+    },
+    "33": {
+      "type": "ostalo",
+      "services": [
+        "projektovanje",
+        "nadzor",
+        "idejni i glavni projekat, nadzor nad izvođenjem radova, upravljanje projektom"
+      ],
+      "title": "Benzinske pumpe Holdina",
+      "location": "Sarajevo, Zenica, Cazin, Drvar, Fojnica, Travnik, Derventa, Kalesija, Srebrenik, Breza, Tešanj, Donji Vakuf, Bosanski Petrovac, Prijedor, Žepče, Konjic, Živinice",
+      "year": "",
+      "area": "",
+      "client": "HOLDINA SARAJEVO",
+      "description": ""
+    },
+    "34": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "Norton Museum",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "35": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "Franklin & Marshall College",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "36": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "TN State Library",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "37": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "The Joseph Hotel",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "38": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "Willis Tower",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "39": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "Idexx",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "40": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "BNA (Nashville Airport)",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    },
+    "41": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "VUMC Children's Hospital",
+      "location": "SAD",
+      "area": "",
+      "client": "JWMCD",
+      "description": ""
+    },
+    "42": {
+      "type": "Fasadne obloge",
+      "services": ["Fasadni inženjering"],
+      "title": "Jaguar Landrover",
+      "location": "SAD",
+      "area": "",
+      "client": "",
+      "description": ""
+    }
+  }
+}

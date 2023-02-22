@@ -1,0 +1,225 @@
+@charset "utf-8";
+
+@import './variables';
+
+@import '../node_modules/bulma/sass/utilities/_all';
+
+@import './animations';
+
+@import './utilities';
+
+@import './components';
+
+@import './pages';
+
+@import './slideshow';
+
+@import './icons';
+
+@import '../node_modules/bulma/bulma.sass';
+
+@import './typography';
+
+// @import '../node_modules/bulma/sass/base/_all';
+// @import '../node_modules/bulma/sass/elements/_all';
+// @import '../node_modules/bulma/sass/form/_all';
+// @import '../node_modules/bulma/sass/components/_all';
+// @import '../node_modules/bulma/sass/grid/_all';
+// @import '../node_modules/bulma/sass/helpers/_all';
+
+/* .each-slide {
+  div {
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    width: 100vw;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+
+    .slide-text {
+      padding: 2rem 3rem;
+      .title {
+        color: $white;
+
+        &:not(:last-child) {
+          margin-bottom: 0.75rem;
+        }
+      }
+    }
+  }
+} */
+
+.indicators {
+  position: absolute;
+  bottom: 1rem;
+  left: 45%;
+  transform: translate(-50%, -50%);
+  display: flex;
+
+  @include until($widescreen) {
+    left: 80%;
+  }
+}
+
+.react-slideshow-container + ul.indicators {
+  flex-wrap: nowrap;
+  @include until($tablet) {
+    display: none;
+  }
+}
+
+.menu-label {
+  font-size: 1.375rem;
+  font-weight: 500;
+  letter-spacing: 2px;
+  text-transform: uppercase;
+
+  &-office {
+    letter-spacing: 0;
+  }
+
+  &-team {
+  }
+}
+
+.box {
+  padding-left: 2rem;
+  padding-right: 2rem;
+}
+
+.tags .tag {
+  padding: 1rem 0.75rem;
+  &:not(:last-child) {
+    margin-right: 1rem;
+  }
+}
+
+.blog-breadcrumb.breadcrumb li.is-active a {
+  color: $white !important;
+}
+.blog-breadcrumb.breadcrumb li + li::before {
+  color: $white;
+  font-weight: 400;
+}
+
+.breadcrumb:not(:last-child) {
+  margin-bottom: 0;
+}
+.my-masonry-grid {
+  display: -webkit-box; /* Not needed if autoprefixing */
+  display: -ms-flexbox; /* Not needed if autoprefixing */
+  display: flex;
+  margin-left: 0; /* gutter size offset */
+  width: auto;
+}
+.my-masonry-grid_column {
+  padding-left: 1.5rem; /* gutter size */
+  background-clip: padding-box;
+  &:first-child {
+    padding-left: 2rem;
+  }
+  &:last-child {
+    padding-right: 2rem;
+  }
+}
+
+/* Style your items */
+.my-masonry-grid_column > div {
+  /* change div to reference your elements you put in <Masonry> */
+
+  margin-bottom: 1rem;
+  padding-bottom: 3rem;
+  img {
+    width: 100%;
+  }
+}
+
+#root {
+  opacity: 0;
+  transition: opacity 1000ms;
+}
+
+.active {
+  opacity: 1;
+}
+
+.blog-breadcrumb,
+.blog-arrow-button-left {
+  font-size: 0.75rem;
+  @include until($tablet) {
+    font-size: 0.5rem;
+    margin-left: 0;
+  }
+}
+
+@include mobile {
+  #quote {
+    padding-left: 1rem;
+
+    &::before {
+      top: -2.6rem;
+      left: -1.3rem;
+
+      font-size: 5.25rem;
+    }
+  }
+}
+
+@include tablet {
+  #quote {
+    padding-left: 1rem;
+
+    &::before {
+      top: -3rem;
+      left: -2rem;
+
+      font-size: 7.25rem;
+    }
+  }
+}
+
+.video-player {
+  width: 100vw;
+  height: 100vh;
+}
+
+.client-logo {
+  max-height: 8rem;
+  min-width: 100px;
+}
+
+.video-column {
+  min-height: 30rem;
+
+  video {
+    min-height: 10rem;
+  }
+}
+
+.projectPhoto {
+  width: 100%;
+  object-fit: cover;
+  height: 300px;
+  position: relative;
+  background-image: url('../public/assets/logos/logo-black.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.relatedImg {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  background-image: url('../public/assets/logos/logo-black.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}
+.projectsImg {
+  width: 100%;
+  height: 400px;
+  object-fit: cover;
+  object-position: center;
+  background-image: url('../public/assets/logos/logo-black.svg');
+  background-repeat: no-repeat;
+  background-position: center;
+}

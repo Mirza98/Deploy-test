@@ -1,0 +1,34 @@
+{
+  "title": "Designing",
+  "content": "Aksa doo Zenica was founded in 1989 with its headquarters in Zenica, BIH.\nThe owner and founder is the renowned Bosnian architect Zvjezdan Turkić.\nFor his work, the architect Turkić has been awarded several times - among other things he received the award twice. He was the first president of the Assembly of the Association of Architects of BiH, president and member of the Commission for taking professional exams at the Ministry of Physical Planning of BiH, as well as a member of the Association of Architects of BiH for the most successful architectural realization in Bosnia and Herzegovina. Expert committee for granting authorizations for architectural design at the same Ministry.\nIn its 27 years of existence, Aksa has managed to implement a large number of projects of importance to the state, federation, canton, city and private investors, making us one of the leading design companies in BIH.\nIn our composition there are architectural and constructive bureaus which together with external associates on enable the successful implementation of even the most complex project tasks. ",
+  "p1": "Every construction project regardless of level of complexity should have a conceptualization or design.",
+  "p2": "In design practice, there are significant differences between the preliminary design and the main design. The preliminary design defines the size of the future object, the position of the object and the orientation on the building plot.",
+  "p3": "In the main design the preliminary design is further developed and the construction works are executed in accordance with the main design. Main design includes all engineering professions and it meets all necessary standards and requirements for construction.",
+  "p4": "Complex buildings sometimes require a detailed design in which all necessary construction details are precisely solved and it prevents contractors' improvisations and possible \"creative\" interventions.",
+  "designing": {
+    "serviceDescriptionLists": [
+      {
+        "title": "ARCHITECTURE",
+        "body": [
+          "Conceptual solutions",
+          "Preliminary designs",
+          "Main designs",
+          "Detailed designs",
+          "As built designs",
+          "Rehabilitation, reconstruction and restoration designs",
+          "Interior designs"
+        ]
+      },
+      {
+        "title": "STRUCTURAL ENGINEERING",
+        "body": [
+          "Preliminary structural designs",
+          "Main and detailed designs of reinforced concrete, steel and wooden structures",
+          "Drafting of construction details of steel, reinforced concrete and wooden structures",
+          "Sanation and reconstruction designs",
+          "Expert reviews, assessments and opinions"
+        ]
+      }
+    ]
+  }
+}
