@@ -44,13 +44,13 @@ const TeamMembers: FC<TeamMembersProps> = ({ members, className }) => {
               ) : null}
               <div className="member-card__body">
                 <div className="is-flex is-align-items-baseline is-flex-wrap-wrap">
-                  <h2 className="title is-2 mr-2 letter-spacing">{member.name}</h2>
+                  <h2 className="title titlen is-2 mr-2 letter-spacing">{member.name}</h2>
                   <span className="title is-4 mt-2">
                     {lang === 'en' ? member.titleEn : member.title}
                   </span>
                 </div>
 
-                <h3 className="title mt-2 is-3">
+                <h3 className="title mt-2 is-3 subtitlen">
                   {lang === 'en' ? member.positionEn : member.position}
                 </h3>
               </div>

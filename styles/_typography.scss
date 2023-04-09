@@ -61,6 +61,7 @@
   color: $primary-black;
   font-weight: 500;
   font-family: 'Roboto Slab', sans-serif;
+  font-family: 'Din', sans-serif;
 }
 
 .project-title {
@@ -68,9 +69,9 @@
 }
 
 .title.is-2 {
-  font-size: 1.8rem;
+  font-size: 1.5rem;
   @include until($tablet) {
-    font-size: 24px;
+    font-size: 20px;
   }
 }
 
@@ -89,4 +90,11 @@
 }
 .projects-title:first-letter {
   text-transform: uppercase;
+}
+h3.title.mt-2.is-3.subtitlen{
+  font-size: 15px;
+
+  @include until($tablet) {
+    font-size: 15px;
+  }
 }
